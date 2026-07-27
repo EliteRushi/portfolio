@@ -4,7 +4,7 @@
     "description": "Interactive bouncing ball simulation with realistic gravity, collisions and elasticity controls.",
     "category": "Web",
     "technologies": ["HTML", "CSS", "JavaScript", "Canvas"],
-    "thumbnail": "https://picsum.photos/seed/physics/600/500",
+    "thumbnail": "https://eliterushi.github.io/portfolio/Z.png",
     "github": "https://github.com/yourname/physics-sim",
     "demo": "https://example.com/physics",
     "files": [
