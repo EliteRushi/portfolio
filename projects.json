@@ -1,0 +1,75 @@
+[
+  {
+    "title": "Physics Simulation",
+    "description": "Interactive bouncing ball simulation with realistic gravity, collisions and elasticity controls.",
+    "category": "Web",
+    "technologies": ["HTML", "CSS", "JavaScript", "Canvas"],
+    "thumbnail": "https://picsum.photos/seed/physics/600/500",
+    "github": "https://github.com/yourname/physics-sim",
+    "demo": "https://example.com/physics",
+    "files": [
+      { "type": "image", "src": "https://picsum.photos/seed/physics1/1200/800" },
+      { "type": "image", "src": "https://picsum.photos/seed/physics2/1200/800" }
+    ]
+  },
+  {
+    "title": "AI Image Classifier",
+    "description": "A convolutional neural network that classifies everyday objects with 94% accuracy.",
+    "category": "AI",
+    "technologies": ["Python", "PyTorch", "NumPy"],
+    "thumbnail": "https://picsum.photos/seed/ai/600/700",
+    "github": "https://github.com/yourname/ai-classifier",
+    "files": [
+      { "type": "image", "src": "https://picsum.photos/seed/ai1/1200/800" }
+    ]
+  },
+  {
+    "title": "Weather CLI Tool",
+    "description": "A lightweight command-line tool that fetches forecasts from a public API and renders ASCII graphs.",
+    "category": "Python",
+    "technologies": ["Python", "Requests", "Rich"],
+    "thumbnail": "https://picsum.photos/seed/weather/600/450",
+    "github": "https://github.com/yourname/weather-cli"
+  },
+  {
+    "title": "Robotic Arm — CAD Design",
+    "description": "A 5-DOF robotic arm designed in Fusion 360, ready for 3D printing and assembly.",
+    "category": "CAD",
+    "technologies": ["Fusion 360", "3D Printing"],
+    "thumbnail": "https://picsum.photos/seed/cad/600/800",
+    "files": [
+      { "type": "image", "src": "https://picsum.photos/seed/cad1/1200/900" },
+      { "type": "image", "src": "https://picsum.photos/seed/cad2/1200/900" }
+    ]
+  },
+  {
+    "title": "IoT Temperature Logger",
+    "description": "ESP32-based sensor node streaming live temperature data to a small web dashboard.",
+    "category": "Electronics",
+    "technologies": ["ESP32", "C++", "MQTT"],
+    "thumbnail": "https://picsum.photos/seed/iot/600/500",
+    "github": "https://github.com/yourname/iot-logger"
+  },
+  {
+    "title": "Personal Portfolio",
+    "description": "This very site — a fast, framework-free portfolio you can drop on GitHub Pages.",
+    "category": "Web",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "thumbnail": "https://picsum.photos/seed/portfolio/600/600",
+    "demo": "https://example.com/portfolio"
+  },
+  {
+    "title": "Chess Engine",
+    "description": "A minimax + alpha-beta pruning chess engine playable in the terminal.",
+    "category": "Python",
+    "technologies": ["Python", "Algorithms"],
+    "thumbnail": "https://picsum.photos/seed/chess/600/750"
+  },
+  {
+    "title": "Voice Assistant",
+    "description": "Offline speech-to-text assistant using Whisper and a local LLM for private queries.",
+    "category": "AI",
+    "technologies": ["Python", "Whisper", "LLM"],
+    "thumbnail": "https://picsum.photos/seed/voice/600/500"
+  }
+]
