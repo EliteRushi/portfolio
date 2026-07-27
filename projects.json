@@ -8,7 +8,7 @@
     "github": "https://github.com/yourname/physics-sim",
     "demo": "https://example.com/physics",
     "files": [
-      { "type": "image", "src": "https://www.facebook.com/narutoofficialsns/videos/naruto-vs-isshiki-boruto-naruto-next-generations/360111128807674/" },
+      { "type": "video", "src": "https://www.facebook.com/narutoofficialsns/videos/naruto-vs-isshiki-boruto-naruto-next-generations/360111128807674/" },
       { "type": "image", "src": "https://picsum.photos/seed/physics2/1200/800" }
     ]
   },
